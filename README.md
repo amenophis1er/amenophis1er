@@ -4,6 +4,8 @@ I build tools for voice, telecom, and the web.
 
 ## What I'm working on
 
+**[xphone-go](https://github.com/x-phone/xphone-go)** — Go library for SIP telephony. Registration, calls, RTP media, codecs, DTMF, hold, transfer — event-driven API.
+
 **[fakepbx](https://github.com/x-phone/fakepbx)** — In-process SIP server for Go tests. Real SIP over loopback, no Docker or Asterisk needed.
 
 **[tts-bridge](https://github.com/amenophis1er/tts-bridge)** — TTS APIs speak HTTP. Voice apps speak WebSocket. This bridges the gap.
