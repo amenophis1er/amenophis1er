@@ -2,6 +2,8 @@
 
 Building voice AI, agent tooling, and developer infrastructure.
 
+🌐 [amenophis.dev](https://amenophis.dev)
+
 [X](https://x.com/amenophis1er) · [LinkedIn](https://www.linkedin.com/in/amenophis/) · [Threads](https://www.threads.com/@amenophis1er) · [Instagram](https://www.instagram.com/amenophis1er) · [Facebook](https://www.facebook.com/amenophis1er)
 
 ## Stack
