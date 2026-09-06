@@ -20,6 +20,7 @@ Building voice AI, agent tooling, and developer infrastructure.
 - **[cadence](https://github.com/amenophis1er/cadence)** `Go` — Provider-agnostic Go engine for low-latency STT→LLM→TTS voice pipelines — streaming engines behind uniform interfaces, swap vendors with a config change. Owns the hot path.
 - **[xPhone (Go version)](https://github.com/x-phone/xphone-go)** `Go` — The embedded telephony data plane for Go. Place and answer calls on any SIP trunk — or be the trunk — with carrier failover, full SIP-signaling visibility, and call audio delivered as PCM frames on a channel, ready for STT or a voice agent. Battle-tested across 500,000+ production calls.
 - **[Vonzio](https://github.com/vonzio/vonzio)** `TypeScript` — The runtime for production agents — bring your own model. Open-source, self-hostable, isolated Docker workspaces per session.
+- **[Foreman](https://github.com/amenophis1er/foreman)** `TypeScript` — Runs software missions unattended and shows you everything when you're back. A director plans, delegates to workers, and verifies; any provider, honest cost, a default for every ask, your phone in the loop.
 - **[elefante](https://github.com/amenophis1er/elefante)** `TypeScript` — The open, Git-native memory protocol for MCP agents: portable, inspectable, versioned, and human-editable.
 - **[claude-voice](https://github.com/amenophis1er/claude-voice)** `TypeScript` — Give Claude Code a voice — selective, tasteful spoken summaries and attention cues. Quiet by default.
 
